@@ -1,4 +1,4 @@
-# 📰 Proyecto #14 - FreshRSS - Sistemas Operativos I
+#  Proyecto #14 - FreshRSS - Sistemas Operativos I
 
 **Universidad:** ESAN  
 **Curso:** Sistemas Operativos I - 2026-1  
@@ -6,10 +6,10 @@
 **Tema de SO:** Tareas programadas y procesos (cron)  
 **Integrantes:** [Abdiel Ramos y Abel Flores]
 
-## 🌐 Aplicación en producción
+##  Aplicación en producción
 [https://freshrss.xyz](https://freshrss.xyz)
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 - AWS EC2 (Ubuntu 24.04)
 - Podman 4.9.3 (rootless)
 - FreshRSS 1.29.1
